@@ -1,4 +1,4 @@
-# Project 1: Predicting Type 2 Diabetes with Machine Learning, using a variety of features such as diet and exercise.
+# [Project 1: Predicting Type 2 Diabetes with Machine Learning, using a variety of features such as diet and exercise.](https://github.com/johnnymcgcodes/diabetes_predictor)
 
 Data Science Approach:
 * Prediction Challenge
