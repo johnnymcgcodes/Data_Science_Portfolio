@@ -1,5 +1,4 @@
-# ds_portfolio
-Data Science Portfolio
+# Data Science Portfolio
 
 Project 1
 Predicting Type 2 Diabetes with Machine Learning, using a variety of features such as diet and exercise.
