@@ -10,4 +10,4 @@ Data Science Approach:
 * Deploy
 
 
-# [Project 1 Flask Application: Predicting Type 2 Diabetes with Machine Learning, using a variety of features such as diet and exercise.](https://github.com/johnnymcgcodes/diabetes_predictor/blob/main/diabetes_classification.ipynb)
+# [Project 1 App: Flask Application: Predicting Type 2 Diabetes Flask Application.](https://github.com/johnnymcgcodes/disease_prediction)
